@@ -1,0 +1,149 @@
+*{
+outline: 0;
+padding: 0;
+margin: 0;
+border: 1;
+border-style: dotted;
+border-color:pink;
+
+}
+body{
+    width:970px;
+    border-color:#1FA543;
+    border-style:dashed;
+    border-width:1px;
+}
+.wrapper{
+    background-color:#245176;
+    vertical-align: top;
+    height:1200px;
+    
+}
+.wrapper div div div form{
+    vertical-align: top;
+    width:230px;
+    margin-top: 20px;
+    height:50px;
+    display:inline-block;
+}
+.head img{
+    width:300px;
+    margin:30px 0px 0px 30px;
+    
+}
+
+.head form{
+    display:inline-block;
+    
+}
+.banner{
+    background-color: #447dac;
+    width:800px;
+    height:80px;
+    margin-left:120px;
+    display: block;
+    
+}
+h1{
+    margin: 10px 5px;
+    color:white;
+    font-size:22px;
+}
+.navbar ul{
+    color:white;
+    margin:50px;
+    display:inline-block;
+    width:200px;
+}
+.navbar{
+    width:200px;
+    display:inline-block;
+}
+p{
+    display: block;
+    width:500px;
+    color:white;
+
+}
+.main{
+    width:500px;
+    display: inline-block;
+}
+.lowbanner{
+    height: 400px;
+    background-color: white;
+    padding-left:100px;
+    padding-top:50px;
+    display:inline-block;
+    vertical-align: top;
+    margin-right: 0px;
+
+}
+
+.lowbanner p{
+    color:black;
+    width: 300px;
+    
+}
+.lowbanner hr{
+    align-self: center;
+    width:400px;
+    margin-bottom:10px;
+    background-color:black;
+    height: 5px;
+    width:300px;
+}
+.lowbanner ul{
+    margin-left:50px;
+}
+footer ul, banner ul {
+    /* list-style-type: none; */
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+    background-color: #333333;
+}
+
+footer li, banner li {
+    display:inline;
+    
+}
+
+footer a, banner a {
+
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.sb{
+    
+    width:220px;
+    display:inline-block;
+    vertical-align: top;
+    background-color:#444444;
+    border-radius:10px;
+    margin-top:30px;
+    margin-left:40px;
+    padding-left:30px;
+    
+}
+.sb form input{
+    color:black;
+}
+.gobutton{
+    background-color:#245176;
+    padding:5px;
+    color:white;
+    
+}
+.head div{
+    display:inline-block;
+    vertical-align:top;
+    margin-left:300px;
+}
+.sb p{
+    width:200px;
+    vertical-align:top;
+    display:inline-block;
+}
